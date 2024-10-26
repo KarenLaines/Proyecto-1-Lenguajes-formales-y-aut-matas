@@ -6,7 +6,8 @@ Karen Floridalma Laines Pablo - 1520722
 María Esther Tiguila Soloj - 1627021
 
 ## Descripción
-Este proyecto simula el proceso de un analizador léxico de un compilador. Permite cargar un archivo de texto, visualizar su contenido y analizar los tokens línea por línea.
+Este proyecto simula el proceso de un analizador léxico de un compilador. Permite cargar un archivo de texto, visualizar su contenido 
+y analizar los tokens línea por línea, teniendo un análisis sintáctico y semántico.
 
 ## Requisitos
 - Python 3.x
@@ -35,7 +36,8 @@ if __name__ == "__main__":
     app = AnalizadorLexicoApp(root)
     root.mainloop()
 
-
+VIDEO DE EXPLICACIÓN:
+https://drive.google.com/drive/folders/10I3o-HH0cejv1Nv2VDKBdnGghf_-Kvxi?usp=sharing
 
 
 MANUAL DE USUARIO:
