@@ -43,3 +43,7 @@ https://drive.google.com/drive/folders/10I3o-HH0cejv1Nv2VDKBdnGghf_-Kvxi?usp=sha
 MANUAL DE USUARIO:
 
 https://www.canva.com/design/DAGQSZj8BZk/TpSvIYJNp0Y7dNcMQxJlFA/edit?utm_content=DAGQSZj8BZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+LINK DE VIDEO EXPLICATIVO:
+https://youtu.be/qfFtH-R2pkI
+
